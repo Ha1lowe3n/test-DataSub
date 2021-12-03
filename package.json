@@ -1,0 +1,15 @@
+{
+    "name": "datasub",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "first": "ts-node first/AClass.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ts-node": "^10.4.0"
+    }
+}
